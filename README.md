@@ -1,4 +1,4 @@
-# TrueDriver by NexGen Nerds
+# TrueSaarthi by NexGen Nerds
  This project aims to develop a cab-booking app that prioritizes safety in Delhi. This website will enhance passenger safety in cab-booking services by introducing a "Safety Star Certification" system. It will allow passengers to provide detailed safety reviews for drivers, promoting accountability and enabling informed booking decisions.
 
  ## Project Goals
